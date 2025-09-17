@@ -1,6 +1,5 @@
 # First
-Fuck det her lort  
-Knepper din mor
-123
-Fatter ikke en skid
-hader det her fag
+Fuck det her lort.  
+123.
+Fatter ikke en skid.
+Hvad skal vi have ud af det her fag
